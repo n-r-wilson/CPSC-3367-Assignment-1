@@ -1,0 +1,22 @@
+com.ualr.firstapp-fragment-1.3.6-0 C:\Users\Noah\.gradle\caches\transforms-3\29bdfe4f1619e457b1b22ec172982bb4\transformed\fragment-1.3.6\res
+com.ualr.firstapp-material-1.4.0-1 C:\Users\Noah\.gradle\caches\transforms-3\35c69b59585be5ab8e4b75884f21579b\transformed\material-1.4.0\res
+com.ualr.firstapp-transition-1.2.0-2 C:\Users\Noah\.gradle\caches\transforms-3\44f59b81c87b69ad5a2c3b803c83780d\transformed\transition-1.2.0\res
+com.ualr.firstapp-core-1.5.0-3 C:\Users\Noah\.gradle\caches\transforms-3\4cb2d3ae910a25e4d3b75b6b0d8d1b11\transformed\core-1.5.0\res
+com.ualr.firstapp-jetified-viewpager2-1.0.0-4 C:\Users\Noah\.gradle\caches\transforms-3\72de3ad0e7ea8651a6e87e246ac967c6\transformed\jetified-viewpager2-1.0.0\res
+com.ualr.firstapp-cardview-1.0.0-5 C:\Users\Noah\.gradle\caches\transforms-3\7c7a8c29ecce42e20d903e3a51f8df85\transformed\cardview-1.0.0\res
+com.ualr.firstapp-constraintlayout-2.1.0-6 C:\Users\Noah\.gradle\caches\transforms-3\89c0457d0fb7cdf2fe96d475895fb51e\transformed\constraintlayout-2.1.0\res
+com.ualr.firstapp-coordinatorlayout-1.1.0-7 C:\Users\Noah\.gradle\caches\transforms-3\8a6303413022a75475e0d43fea7dc5ec\transformed\coordinatorlayout-1.1.0\res
+com.ualr.firstapp-lifecycle-runtime-2.3.1-8 C:\Users\Noah\.gradle\caches\transforms-3\c952d0b8ff75b964d5e2a94e673b2da3\transformed\lifecycle-runtime-2.3.1\res
+com.ualr.firstapp-jetified-appcompat-resources-1.3.1-9 C:\Users\Noah\.gradle\caches\transforms-3\cb76beae9058e06c079e98d21713b79b\transformed\jetified-appcompat-resources-1.3.1\res
+com.ualr.firstapp-jetified-savedstate-1.1.0-10 C:\Users\Noah\.gradle\caches\transforms-3\ce48164422c3447ff8a6246b4d8ea9c1\transformed\jetified-savedstate-1.1.0\res
+com.ualr.firstapp-recyclerview-1.1.0-11 C:\Users\Noah\.gradle\caches\transforms-3\d55f9b1c6cb2370e24af439e7aff662a\transformed\recyclerview-1.1.0\res
+com.ualr.firstapp-lifecycle-viewmodel-2.3.1-12 C:\Users\Noah\.gradle\caches\transforms-3\d6364469d2dca85a8f85e8beeb73ccf4\transformed\lifecycle-viewmodel-2.3.1\res
+com.ualr.firstapp-appcompat-1.3.1-13 C:\Users\Noah\.gradle\caches\transforms-3\dc76b0e3b38f48e10b9290d411e4a34b\transformed\appcompat-1.3.1\res
+com.ualr.firstapp-pngs-14 C:\Users\Noah\Sync\Mobile Apps Development\a01-hello-world-master\app\build\generated\res\pngs\debug
+com.ualr.firstapp-resValues-15 C:\Users\Noah\Sync\Mobile Apps Development\a01-hello-world-master\app\build\generated\res\resValues\debug
+com.ualr.firstapp-rs-16 C:\Users\Noah\Sync\Mobile Apps Development\a01-hello-world-master\app\build\generated\res\rs\debug
+com.ualr.firstapp-mergeDebugResources-17 C:\Users\Noah\Sync\Mobile Apps Development\a01-hello-world-master\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.ualr.firstapp-mergeDebugResources-18 C:\Users\Noah\Sync\Mobile Apps Development\a01-hello-world-master\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.ualr.firstapp-merged_res-19 C:\Users\Noah\Sync\Mobile Apps Development\a01-hello-world-master\app\build\intermediates\merged_res\debug
+com.ualr.firstapp-debug-20 C:\Users\Noah\Sync\Mobile Apps Development\a01-hello-world-master\app\src\debug\res
+com.ualr.firstapp-main-21 C:\Users\Noah\Sync\Mobile Apps Development\a01-hello-world-master\app\src\main\res
